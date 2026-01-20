@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "leetcode.cpp",
               "DocumentMoniker": "D:\\my_code projection\\2026code\\leetcode\\leetcode.cpp",
               "RelativeDocumentMoniker": "leetcode.cpp",
-              "ToolTip": "D:\\my_code projection\\2026code\\leetcode\\leetcode.cpp*",
-              "RelativeToolTip": "leetcode.cpp*",
-              "ViewState": "AgIAADYAAAAAAAAAAAAmwEYAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\my_code projection\\2026code\\leetcode\\leetcode.cpp",
+              "RelativeToolTip": "leetcode.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-20T14:04:54.403Z",
               "EditorCaption": ""
