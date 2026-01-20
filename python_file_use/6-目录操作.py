@@ -68,3 +68,4 @@ if __name__ == '__main__':
     #change_dir()
      #scan_dir('.', 0)
     use_stat('file4')
+    print("done")
