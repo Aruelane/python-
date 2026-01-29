@@ -1,2 +1,2 @@
 ﻿  test.cpp
-D:\my_code projection\2026code\python_and_c\test_c\test.cpp(10,1): error C4700: 使用了未初始化的局部变量“a”
+  test_c.vcxproj -> D:\my_code projection\2026code\python_and_c\test_c\x64\Debug\test_c.exe
