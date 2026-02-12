@@ -76,6 +76,7 @@
   <ItemGroup>
     <ClCompile Include="与对应负数同时存在的最大正整数.c" />
     <ClCompile Include="两个数组间的距离值.c" />
+    <ClCompile Include="二叉树中第二小的节点.c" />
     <ClCompile Include="二叉树的前序遍历.c" />
     <ClCompile Include="二进制链表转整数.c" />
     <ClCompile Include="删除排序链表中的重复元素 II.c" />
